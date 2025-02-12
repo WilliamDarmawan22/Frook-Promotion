@@ -24,7 +24,7 @@ Tujuannya adalah untuk memperkenalkan Frook kepada calon pengguna serta menghubu
 
 ## 🌍 **Akses Website**
 Kunjungi website promosi Frook melalui link berikut:  
-🔗 [Website Frook](#) _(Ganti dengan link website jika sudah online)_
+🔗 [Website Frook](#) _(https://williamdarmawan22.github.io/Frook-Promotion/)_
 
 ---
 
